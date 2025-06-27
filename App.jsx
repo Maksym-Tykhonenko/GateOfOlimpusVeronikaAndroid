@@ -4,7 +4,7 @@ import { enableScreens } from 'react-native-screens';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
-//import { MusicProvider } from './src/music';
+//..import { MusicProvider } from './src/music';
 import Player from './src/components/Player';
 
 import MenuScreen from './src/screens/MenuScreen';
